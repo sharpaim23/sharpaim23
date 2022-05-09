@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aimee Sharp</h1>
 <h3 align="center">detailed oriented driven individual who strives to tackle the hard problems before breakfast.</h3>
 
