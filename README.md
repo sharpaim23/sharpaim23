@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm pretty hilarious once you get to know me! So, get to know me!**
 
-![Alt-Text](https://media.giphy.com/media/AYwsmgtECKzusO5Axc/giphy.gif)
+![Alt-Text](https://media.giphy.com/media/gEQvkJdnNIzWg6k9Dl/giphy.gif)
 ![Alt-Text](https://media.giphy.com/media/BZSZKPCtD4Yx7XaCVg/giphy.gif)
 ![Alt-Text](https://media.giphy.com/media/GrZhxwhG0OnuA4Oihf/giphy.gif)
 
