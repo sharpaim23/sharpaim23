@@ -13,11 +13,9 @@
 
 - 📫 How to reach me **sharpaim23@gmail.com**
 
-- ⚡ Fun fact **I'm pretty hilarious once you get to know me! So, get to know me!**<br>
+- ⚡ Fun fact **I'm pretty hilarious once you get to know me! So, get to know me!**
 
-<iframe src="https://giphy.com/embed/gEQvkJdnNIzWg6k9Dl" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://aimsharp.netlify.app/">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/BZSZKPCtD4Yx7XaCVg" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://aimsharp.netlify.app/">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/GrZhxwhG0OnuA4Oihf" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GrZhxwhG0OnuA4Oihf">via GIPHY</a></p>
+[!Alt Text]https://media.giphy.com/media/GrZhxwhG0OnuA4Oihf/giphy.gif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
