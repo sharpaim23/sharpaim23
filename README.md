@@ -36,7 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharpaim23&show_icons=true&locale=en" alt="sharpaim23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharpaim23&" alt="sharpaim23" /></p>
-<script src="index.js"></script>
-</body>
-</html>
-
