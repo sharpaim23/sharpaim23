@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aimee Sharp</h1>
-<h3 align="center">detailed oriented driven individual who strives to tackle the hard problems before breakfast.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharpaim23" alt="sharpaim23" /></a> </p>
+<h3 align="center">Detailed oriented driven individual who strives to tackle the hard problems before breakfast.</h3>
 
 - 🔭 I’m currently working on **Communication App**
 
 - 🌱 I’m currently learning **Javascript, API's, & OOP**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **Javascript with emphasis on my Communication App**
 
 - 👨‍💻 All of my projects are available at [https://aimsharp.netlify.app/](https://aimsharp.netlify.app/)
 
-- 💬 Ask me about **My journey**
+- 💬 Ask me about **my portfolio and my journey**
 
 - 📫 How to reach me **sharpaim23@gmail.com**
 
-- ⚡ Fun fact **I'm pretty hilarious once you get to know me! So, get to know me!**
+- ⚡ Fun fact **I'm pretty hilarious once you get to know me! So, get to know me!**<br>
+
+<iframe src="https://giphy.com/embed/gEQvkJdnNIzWg6k9Dl" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://aimsharp.netlify.app/">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/BZSZKPCtD4Yx7XaCVg" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://aimsharp.netlify.app/">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/GrZhxwhG0OnuA4Oihf" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GrZhxwhG0OnuA4Oihf">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharpaim23&show_icons=true&locale=en" alt="sharpaim23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharpaim23&" alt="sharpaim23" /></p>
+<script src="index.js"></script>
+</body>
+</html>
 
