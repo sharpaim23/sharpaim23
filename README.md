@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aimee Sharp</h1>
 <h3 align="center">Detailed oriented driven individual who strives to tackle the hard problems before breakfast.</h3>
 
-- 🔭 I’m currently working on **Communication App**
+- 🔭 I’m currently working on **Streaming Hub App**
 
 - 🌱 I’m currently learning **Javascript, API's, & OOP**
 
