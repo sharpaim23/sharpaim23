@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Javascript with emphasis on my Communication App**
 
-- 👨‍💻 All of my projects are available at [https://aimsharp.netlify.app/](https://aimsharp.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aimsharp.netlify.app/](https://aimsharp.netlify.app/) or https://aimsharp.start.page
 
 - 💬 Ask me about **my portfolio and my journey**
 
