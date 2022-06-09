@@ -15,11 +15,12 @@
 
 - ⚡ Fun fact **I'm pretty hilarious once you get to know me! So, get to know me!**
 
-<h1 align="center">My Projects</h1>
+<h1 align="center">My Projects
 
 ![Alt-Text](https://media.giphy.com/media/28xF3QFVdocYoHan2N/giphy.gif)
 ![Alt-Text](https://media.giphy.com/media/BZSZKPCtD4Yx7XaCVg/giphy.gif)
 ![Alt-Text](https://media.giphy.com/media/GrZhxwhG0OnuA4Oihf/giphy.gif)
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
