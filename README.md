@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aimee Sharp</h1>
 <h3 align="center">Detailed oriented driven individual who strives to tackle the hard problems before breakfast.</h3>
 
-- 🔭 I’m currently working on **Kansas City Chiefs Stats Generator App**
+- 🔭 I’m currently working on **Restaurant Menu Generator App**
 
 - 🌱 I’m currently learning **Backend Development: Node.js, Express, MongoDB, & Heroku**
 
