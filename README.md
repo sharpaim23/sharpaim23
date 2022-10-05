@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and how to implement it into my Restaurant Menu Generator App**
 
-- 🤝 I’m looking for help with **Emplamenting geolocation on my Restaurant Menu Generator App**
+- 🤝 I’m looking for help with **Implementing geolocation on my Restaurant Menu Generator App**
 
 - 👨‍💻 A few of my projects are available at [https://aimsharp.netlify.app/](https://aimsharp.netlify.app/)
 
