@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Restaurant Menu Generator App**
 
-- 🌱 I’m currently learning **My Restaurant Menu Generator App**
+- 🌱 I’m currently learning **React and how to implement it into my Restaurant Menu Generator App**
 
 - 🤝 I’m looking for help with **Emplamenting geolocation on my Restaurant Menu Generator App**
 
