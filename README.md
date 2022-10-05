@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Restaurant Menu Generator App**
 
-- 🌱 I’m currently learning **Backend Development: Node.js, Express, MongoDB, & Heroku**
+- 🌱 I’m currently learning **My Restaurant Menu Generator App**
 
-- 🤝 I’m looking for help with **Javascript with emphasis on my Kansas City Chiefs Stats Generator App**
+- 🤝 I’m looking for help with **Emplamenting geolocation on my Restaurant Menu Generator App**
 
-- 👨‍💻 All of my projects are available at [https://aimsharp.netlify.app/](https://aimsharp.netlify.app/)
+- 👨‍💻 A few of my projects are available at [https://aimsharp.netlify.app/](https://aimsharp.netlify.app/)
 
-- 💬 Ask me about **my portfolio and my journey**
+- 💬 Ask me about **my portfolio and my Restaurant Menu Generator App**
 
 - 📫 How to reach me **sharpaim23@gmail.com**
 
